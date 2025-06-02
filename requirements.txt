@@ -1,0 +1,7 @@
+matplotlib
+heapq
+math
+geometry
+typing
+randomn
+numpy
